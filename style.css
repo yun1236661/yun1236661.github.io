@@ -1,0 +1,35 @@
+header{
+    color: burlywood;
+    background-color: blanchedalmond;
+    padding: 0.5px;
+}
+.menu{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+.menub{
+    color:black;background-color:seashell;
+    font-size: 20px;text-align: center;
+    border: 1.5px solid rgb(115, 115, 115);border-radius: 20px;
+    padding: 5px;margin: 5px auto;
+    width: 25%;
+}
+#name{
+    color: rgb(206, 152, 80);
+    background-color: blanchedalmond;
+    font-size: 30px;text-align: center;
+}
+
+h2{
+    color:darkslategray;background-color: seashell;
+    font-size: 20px;font-family:'cursive';
+}
+
+a{
+    text-decoration: none;
+}
+
+footer{
+    font-size:12px;text-align: right;
+}

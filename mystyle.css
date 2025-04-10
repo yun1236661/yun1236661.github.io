@@ -1,0 +1,56 @@
+h1{
+    color:blue;background-color: pink;
+}
+p{
+    color:black;
+}
+h2{
+    color:red;
+}
+.blueblue{
+    color:blue;background-color:antiquewhite;
+}
+#callme{
+    color:brown;background-color: rgb(208, 246, 246);
+    font-size: 70px;
+    text-align: center;
+}
+table,th,td{
+    border: 2px solid gray;
+    border-collapse: collapse;
+}
+table{
+    width: 100%;
+}
+th{
+    color:blueviolet;background-color: aquamarine;
+}
+td{
+    color: chocolate;text-align: center;background-color:whitesmoke
+}
+.redred{
+    color: red;
+    text-decoration: underline;
+    font-weight: 900;
+    background-color: antiquewhite;
+}
+header{
+    color:aliceblue;
+}
+main{
+    color:black;width: 50%;
+}
+section{
+    color: blanchedalmond;
+}
+footer{
+    color:bisque
+}
+aside{
+    color: blanchedalmond;background-color: blueviolet;
+    width: 50%;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
