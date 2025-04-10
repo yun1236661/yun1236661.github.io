@@ -1,6 +1,6 @@
 header{
-    color: burlywood;
-    background-color: blanchedalmond;
+    color: rgb(223, 186, 137);
+    background-color: seashell;
     padding: 0.5px;
 }
 .menu{
@@ -9,15 +9,15 @@ header{
     justify-content: space-around;
 }
 .menub{
-    color:black;background-color:seashell;
-    font-size: 20px;text-align: center;
-    border: 1.5px solid rgb(115, 115, 115);border-radius: 20px;
+    color:rgb(40, 40, 40);background-color:seashell;
+    font-size: 16px;text-align: center;
+    border: 1.5px solid seashell;border-radius: 20px;
     padding: 5px;margin: 5px auto;
     width: 25%;
 }
 #name{
     color: rgb(206, 152, 80);
-    background-color: blanchedalmond;
+    background-color: seashell;
     font-size: 30px;text-align: center;
 }
 
